@@ -1,5 +1,5 @@
 
-[о негре по имени Виталя]()
+[о негре по имени Виталя](https://rgxxx.github.io/git-first-steps/)
 
 # инструкция по git и linux командам
 ## работа с Linux
