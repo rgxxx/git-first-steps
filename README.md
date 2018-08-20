@@ -43,6 +43,6 @@
 * ссылка на фото выглядит так: '![фотография](https://www.google.ru/imgres?imgurl=https%3A%2F%2Fmemepedia.ru%2Fwp-content%2Fuploads%2F2017%2F09%2F1a5.jpg&imgrefurl=https%3A%2F%2Fmemepedia.ru%2Fnegr-za-kompom%2F&docid=1nFBq0xW-xEhnM&tbnid=OHKZPGNCni5dIM%3A&vet=10ahUKEwjkupGF7PrcAhVK_SoKHeVhCOUQMwjBASgGMAY..i&w=600&h=495&bih=887&biw=1280&q=%D0%BD%D0%B5%D0%B3%D1%80&ved=0ahUKEwjkupGF7PrcAhVK_SoKHeVhCOUQMwjBASgGMAY&iact=mrc&uact=8)'
 
 * ![](https://www.google.ru/imgres?imgurl=https%3A%2F%2Fmemepedia.ru%2Fwp-content%2Fuploads%2F2017%2F09%2F1a5.jpg&imgrefurl=https%3A%2F%2Fmemepedia.ru%2Fnegr-za-kompom%2F&docid=1nFBq0xW-xEhnM&tbnid=OHKZPGNCni5dIM%3A&vet=10ahUKEwjkupGF7PrcAhVK_SoKHeVhCOUQMwjBASgGMAY..i&w=600&h=495&bih=887&biw=1280&q=%D0%BD%D0%B5%D0%B3%D1%80&ved=0ahUKEwjkupGF7PrcAhVK_SoKHeVhCOUQMwjBASgGMAY&iact=mrc&uact=8)
-
+### w
 
 
