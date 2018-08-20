@@ -1,5 +1,5 @@
 
-[о негре по имени Виталя](https://rgxxx.github.io/git-first-steps/)
+[о негре по имени Виталя](https://github.com/rgxxx/git-first-steps/blob/master/about-us.md)
 
 # инструкция по git и linux командам
 ## работа с Linux
