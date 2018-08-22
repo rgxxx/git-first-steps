@@ -1,0 +1,21 @@
+h1 {
+    text-align: center;
+}
+
+button {
+    width: 40px;
+    height: 40px;
+}
+
+td, th {
+    padding: 1px;
+}
+
+body {
+    text-align: center;
+}
+
+thead, h1 {
+    background-color: lightgreen;
+}
+
