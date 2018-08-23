@@ -11,17 +11,20 @@
 </head>
 <body>
 
-<h1> CALCULATOR </h1>
+
 <table>
     <thead>
 
+    <tr>
+        <td colspan="4">
 
-    <td colspan="4">
+            <input type="text" id="num-input" value="0" title="поле для ввода">
 
-        <input type="text" id="num-input" value="0" title="поле для ввода">
-
-    </td>
-
+        </td>
+        <td>
+            <button class="operation-button" id="backspaceButton"> <</button>
+        </td>
+    </tr>
     </thead>
 
 
@@ -38,7 +41,7 @@
             <button class="num-button" id="num3">3</button>
         </td>
         <td>
-            <button class="operation-button">+</button>
+            <button class="operation-button" id="num+">+</button>
         </td>
     </tr>
 
@@ -54,7 +57,7 @@
             <button class="num-button" id="num6">6</button>
         </td>
         <td>
-            <button class="operation-button">-</button>
+            <button class="operation-button" id="num-">-</button>
         </td>
     </tr>
 
@@ -70,28 +73,24 @@
             <button class="num-button" id="num9">9</button>
         </td>
         <td>
-            <button class="operation-button">*</button>
+            <button class="operation-button" id="num*">*</button>
         </td>
     </tr>
     <tr>
         <td>
-            <button class="operation-button" id="backspaceButton"> <</button>
+            <button class="operation-button" id="cleanButton">DEL</button>
         </td>
         <td>
-            <button class="num-button" id="num0">0</button>
+            <button class="num-button" id="zero">0</button>
         </td>
         <td>
-            <button class="operation-button">.</button>
+            <button class="operation-button" id="point">.</button>
         </td>
         <td>
-            <button class="operation-button">/</button>
+            <button class="operation-button" id="num/">/</button>
         </td>
     </tr>
-    <tr>
-        <td colspan="4">
-            <button style="width:172Px;height:40Px" class="operation-button" id="=">=</button>
-        </td>
-    </tr>
+
 
     </tbody>
 
