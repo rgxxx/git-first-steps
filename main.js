@@ -45,18 +45,20 @@ for (let i = 0; i < numButtons.length; i++) {
 }
 const plus_button = document.getElementById('num+');
 var inOp = false;
-var num = 0;
+var num = '0';
 plus_button.onclick = () => {
     if (inOp) {
-        input.value = parseFloat(input.value) + num;
-        num = 0;
+        input.value = num + parseFloat(input.value);
+        num = input.value;
         inOp = false;
+
     }
     else {
         num = parseFloat(input.value);
         inOp = true;
         input.value = 0;
     }
+
 };
 const minus_button = document.getElementById('num-');
 minus_button.onclick = () => {
@@ -95,9 +97,9 @@ divide_button.onclick = () => {
         num = parseFloat(input.value);
         inOp = true;
         input.value = 0;
+
     }
+
 };
-const zero = document.getElementById('zero');
-zero.onclick = () => {
-    enterNumber(0);
-};
+
+

@@ -1,7 +1,10 @@
 
 button {
+
     width: 40px;
     height: 40px;
+    border-radius: 10px;
+
 }
 
 td, th {
@@ -10,9 +13,14 @@ td, th {
 
 body {
     text-align: center;
-}
 
-thead, h1 {
+}
+table {
+    margin: auto;
+}
+input {
+    border-radius: 10px;
+    width: 170px;
+    height: 40px;
     background-color: lightgreen;
 }
-
